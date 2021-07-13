@@ -1,9 +1,0 @@
-diff a/httpRequestTest/faqCRUD.http b/httpRequestTest/faqCRUD.http	(rejected hunks)
-@@ -49,6 +49,7 @@
-  ### sortFaq 정렬
-  GET http://localhost:8080/api/sortFaq/ASC
-  Accept: application/json
-++<<<<<<< HEAD
- +
- +### 작업해야할 순서
- +### 2. 지금까지 했던 메서드들 chrome에서 띄워서 호출하고 개발자 도구로 request response 보기 (네트워크 탭)
